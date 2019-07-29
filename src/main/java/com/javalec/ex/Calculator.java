@@ -4,7 +4,7 @@ public class Calculator {
 
 public void addition(int f, int s) {
 		
-		
+		//letz calc here
 		System.out.println("addition()");
 		System.out.println(f + " + " + s + " is: " + (f + s));
 	}
